@@ -2,6 +2,7 @@
  * LIBRARY - CANVAS EXPORT 
  */
 
+
 !(function (A, e) {
   "object" == typeof exports && "undefined" != typeof module
     ? (module.exports = e())
