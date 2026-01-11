@@ -16,7 +16,6 @@
  * - Arabic numeral fret indicators - down
  */
 
-
 const CONFIG = {
     // Chromatic scale: all 12 semitones
     notes: ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'],
